@@ -32,3 +32,10 @@ python3 receiver.py
 
 ```bash
 sudo python3 spoof_sender.py
+```
+
+## Simulation Output
+
+Below is an example of the spoofed packet being sent and received:
+
+![Spoofed UDP Packet Simulation](assets/simulation-output.png)
